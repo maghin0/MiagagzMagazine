@@ -10,7 +10,7 @@ function IndexCard({ index }) {
 
   return (
     <div className='index-card-container'>
-      <span className="index-card-title">Something awesome</span>
+      <span className="index-card-title">Let them do MEE, ugh! please...</span>
       <span className="index-card-index">{beautify(index)}</span>
     </div>
   )

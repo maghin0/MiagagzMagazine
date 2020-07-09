@@ -33,8 +33,8 @@ DescriptionCard.propTypes = {
 
 
 DescriptionCard.defaultProps = {
-  title: ' Fashion by Awesome Person',
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+  title: ' After all patience, beautiful things await ✨',
+  description: 'fuck em, fuck sleep, come clean, zonin’ - fuck popo, police, enemies, fake homies, cant forget that im a OG. suntsets and sunrises buut! dont take life too seriously, nobody makes it out alive.'
 }
 
 export default DescriptionCard

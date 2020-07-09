@@ -2,9 +2,9 @@ const path = require('path')
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Fashion Portfolio Starter`,
-    description: `Beautiful portfolio for your fashion career.`,
-    author: `@shobhitchittora`,
+    title: `Siri Fuder Gifford`,
+    description: `My portfolio`,
+    author: `@Maghin`,
     menuLinks: [
       {
         name: 'Home',
@@ -18,23 +18,23 @@ module.exports = {
     socialLinks: [
       {
         name: 'fb',
-        link: 'http://fb.com'
+        link: 'http://fb.com/sirifgifford'
       },
       {
         name: 'twitter',
-        link: 'http://twitter.com'
+        link: 'http://twitter.com/sirifudergifford'
       },
       {
         name: 'instagram',
-        link: 'http://instagram.com'
+        link: 'https://www.instagram.com/sirifudergifford/'
       },
       {
         name: 'pinterest',
-        link: 'http://pinterest.com'
+        link: 'http://pinterest.com/sirifudergifford'
       },
       {
         name: 'gmail',
-        link: 'mailto:chittorashobhit@gmail.com'
+        link: 'mailto:sirifudergifford@hotmail.com'
       }
     ]
   },
@@ -77,13 +77,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-fashion-portfolio`,
-        short_name: `starter`,
+        name: `Siri's Creative Agency`,
+        short_name: `Siri Fuder `,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#FFA726`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
